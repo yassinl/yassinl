@@ -1,2 +1,2 @@
 Hi my names yassin
-I'm big ai fan
+I'm gna change the world
