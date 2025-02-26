@@ -52,7 +52,7 @@
   <!-- Tools & Platforms -->
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+
 
 
 
