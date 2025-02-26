@@ -9,7 +9,7 @@
 
 <!-- Animated Heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+My+GitHub+Profile;Robotics;Open+Source;Biotech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=600&lines=Welcome+to+My+Profile;Robotics;Open+Source;Biotech" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Hello there! 👋</h3>
