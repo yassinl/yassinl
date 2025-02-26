@@ -1,7 +1,7 @@
 <!-- Banner GIF -->
 <p align="center">
   <img 
-    src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f9718d157bfd0ae30449b96e6066688a-1720445946/BRB/make-a-pixel-art-in-cyberpunk-or-japanese-style-animated.gif" 
+    src="https://cdn.discordapp.com/attachments/750626506153263114/1344335575968383106/make-a-pixel-art-in-cyberpunk-or-japanese-style-animated.gif?ex=67c08991&is=67bf3811&hm=8dd66c478d5c69e116734fc572afe9a4e16c0aeb44b33b31971dbff6852c73de&" 
     alt="Banner GIF" 
     width="800"
   />
