@@ -51,15 +51,12 @@
   <img src="https://img.shields.io/badge/-Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   
   <!-- Tools & Platforms -->
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-  <img src="https://img.shields.io/badge/-CAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="CAD"/>
-  
-  <!-- Hardware & Engineering -->
-  <img src="https://img.shields.io/badge/-Embedded%20Systems-009688?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Embedded Systems"/>
-  <img src="https://img.shields.io/badge/-Soldering-FF5722?style=for-the-badge&logo=arduino&logoColor=white" alt="Soldering"/>
+
+
+
 </p>
 
 
