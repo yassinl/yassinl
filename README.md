@@ -8,7 +8,7 @@
 <!-- Banner GIF -->
 <p align="center">
   <img 
-    src="https://cdn.discordapp.com/attachments/750626506153263114/1344335575968383106/make-a-pixel-art-in-cyberpunk-or-japanese-style-animated.gif?ex=67c08991&is=67bf3811&hm=8dd66c478d5c69e116734fc572afe9a4e16c0aeb44b33b31971dbff6852c73de&" 
+    src="hero.gif" 
     alt="Banner GIF" 
     width="800"
   />
