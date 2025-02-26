@@ -1,10 +1,10 @@
 <!-- Banner GIF -->
 <p align="center">
   <img 
-    src="[https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif](https://external-preview.redd.it/Db8FGSydcUPoMPfdw2-4L3gYelPOlO4-3tuXVyBvPjU.gif?s=eb05b5db6b644a1fd6829b5a95303c46b7407590)" 
+    src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/f9718d157bfd0ae30449b96e6066688a-1720445946/BRB/make-a-pixel-art-in-cyberpunk-or-japanese-style-animated.gif" 
     alt="Banner GIF" 
     width="800"
-    />
+  />
 </p>
 
 <!-- Animated Heading -->
