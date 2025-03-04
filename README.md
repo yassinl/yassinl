@@ -16,13 +16,14 @@
 <p align="center">
 I'm a computer engineering student building at the intersection of AI, robotics, and biotech.  
 I believe technology should push human potential forward—whether that’s smarter machines, better prosthetics, or something we haven’t thought of yet.
+</p>
 
-Right now, I’m:  
+<h3 align="center">What I'm Working On 🚀</h3>
+<p align="center">
 🦾 **Engineering a myoelectric hand** with the e-NABLE design team  
 🧠 **Developing a scientific AI consensus bot** for better research synthesis  
 📊 **Building a portable blood pressure tracking system**  
 </p>
-
 ---
 
 <!-- Social Media Links -->
