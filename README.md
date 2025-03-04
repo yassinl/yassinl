@@ -14,13 +14,13 @@
 
 <h3 align="center">Hello there! 👋</h3>
 <p align="center">
-I'm a computer engineering student building at the intersection of AI, robotics, and biotech.
+I'm a computer engineering student building at the intersection of AI, robotics, and biotech.  
 I believe technology should push human potential forward—whether that’s smarter machines, better prosthetics, or something we haven’t thought of yet.
 
-Right now, I’m:
-🦾 Engineering a myoelectric hand with the e-NABLE design team
-🧠 Developing a scientific AI consensus bot for better research synthesis
-📊 Building a portable blood pressure tracking system
+Right now, I’m:  
+🦾 **Engineering a myoelectric hand** with the e-NABLE design team  
+🧠 **Developing a scientific AI consensus bot** for better research synthesis  
+📊 **Building a portable blood pressure tracking system**  
 </p>
 
 ---
@@ -32,9 +32,11 @@ Right now, I’m:
   <a href="https://www.linkedin.com/in/yassin-lahrime" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <!-- portfolio might go here later -->
+  <!-- Portfolio -->
+  <a href="https://yassinlahrime.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
-
 ---
 
 <!-- Tech Stack -->
