@@ -29,10 +29,7 @@ I believe technology should push human potential forward—whether that’s smar
 <!-- Social Media Links -->
 <h3 align="center">Connect with Me</h3>
 <p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yassin-lahrime" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+
   <!-- Portfolio -->
   <a href="https://yassinlahrime.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
