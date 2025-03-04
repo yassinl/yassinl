@@ -20,9 +20,9 @@ I believe technology should push human potential forward—whether that’s smar
 
 <h3 align="center">What I'm Working On 🚀</h3>
 <p align="center">
-🦾 **Engineering a myoelectric hand** with the e-NABLE design team  
-🧠 **Developing a scientific AI consensus bot** for better research synthesis  
-📊 **Building a portable blood pressure tracking system**  
+  🦾 <b>Engineering a myoelectric hand</b> with the e-NABLE design team <br>
+  🧠 <b>Developing a scientific AI consensus bot</b> for better research synthesis <br>
+  📊 <b>Building a portable blood pressure tracking system</b>  
 </p>
 
 
