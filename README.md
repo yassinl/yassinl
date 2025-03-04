@@ -24,7 +24,7 @@ I believe technology should push human potential forward—whether that’s smar
 🧠 **Developing a scientific AI consensus bot** for better research synthesis  
 📊 **Building a portable blood pressure tracking system**  
 </p>
----
+
 
 <!-- Social Media Links -->
 <h3 align="center">Connect with Me</h3>
@@ -38,7 +38,7 @@ I believe technology should push human potential forward—whether that’s smar
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
----
+
 
 <!-- Tech Stack -->
 <h3 align="center">Tech Stack</h3>
