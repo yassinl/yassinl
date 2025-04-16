@@ -16,8 +16,8 @@ I believe technology should push human potential forward—whether that’s smar
 
 <h3 align="center">What I'm Working On 🚀</h3>
 <p align="center">
-  🧠 <b>Developing a scientific AI consensus bot</b> for better research synthesis <br>
-  📊 <b>Building a portable blood pressure tracking system</b>  
+  🧠 <b>1. AI study tool :3 <br>
+  📊 <b>2. World Domination</b>  
 </p>
 
 
