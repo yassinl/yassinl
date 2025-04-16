@@ -17,7 +17,7 @@ I believe technology should push human potential forward—whether that’s smar
 <h3 align="center">What I'm Working On 🚀</h3>
 <p align="center">
   🧠 <b>1. AI study tool :3 <br>
-  📊 <b>2. World Domination</b>  
+  📊 <b>2. World Domination >:) </b>  
 </p>
 
 
