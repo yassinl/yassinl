@@ -10,8 +10,7 @@
 
 <h3 align="center">Hello there! 👋</h3>
 <p align="center">
-I'm a computer engineering student building at the intersection of AI, robotics, and biotech.  
-I believe technology should push human potential forward—whether that’s smarter machines, better prosthetics, or something we haven’t thought of yet.
+Computer engineering student building super cool awesome stuff ! :D
 </p>
 
 <h3 align="center">What I'm Working On 🚀</h3>
