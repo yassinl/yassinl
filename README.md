@@ -10,13 +10,14 @@
 
 <h3 align="center">Hello there! 👋</h3>
 <p align="center">
-Computer engineering student building super cool awesome stuff ! :D
+computer engineering student building super cool awesome stuff ! :D
 </p>
 
 <h3 align="center">What I'm Working On 🚀</h3>
 <p align="center">
-  🧠 <b>1. AI study tool :3 <br>
-  📊 <b>2. World Domination >:) </b>  
+  🧠 <b>1. Agentic AI Assistant :3 <br>
+  🧠 <b>2. AI study tool :3 <br>
+  📊 <b>3. World Domination >:) </b>  
 </p>
 
 
