@@ -8,9 +8,9 @@
   />
 </p>
 
-<h3 align="center">Hello there! 👋</h3>
+<h3 align="center">Hi, I'm Yassin👋</h3>
 <p align="center">
-computer engineering student building super cool awesome stuff ! :D
+I'm a computer engineering student building really cool stuff
 </p>
 
 <h3 align="center">What I'm Working On 🚀</h3>
